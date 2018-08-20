@@ -66,7 +66,21 @@ appareils, comme par un mobile ou un autre PC par exemple, il faudra lancer
 le serveur de développement avec `php artisan serve --host 0.0.0.0`.
 
 Lors du déploiement du site en production, il faudra configurer nginx ou Apache
-pour servir le dossier `public` uniquement.
+pour servir le dossier `public` uniquement, et il faut servir l'API avec le
+sous-domaine `api`, afin que la partie frontend sache où taper.
+
+Il est possible de mettre à jour les données en provenance de Sellsy
+automatiquement avec l'aide de tâches cron, qui appelent régulièrement les pages
+suivantes :
+
+  - `/cron/sellsy_clients`, pour mettre à jour les clients Sellsy,
+
+  - `/cron/sellsy_contacts`, pour mettre à jour les contacts Sellsy,
+
+  - `/cron/sellsy_orders`, pour mettre à jour les commandes Sellsy,
+
+  - `/cron/sellsy_invoices`, pour mettre à jour les factures Sellsy.
+
 
 ## Partie frontend
 

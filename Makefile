@@ -7,12 +7,12 @@ DOC_FILES = $(wildcard *.md)
 all: pdf
 
 # Building the pdf file
-doc.pdf: $(DOC_FILES)
+documentation.pdf: $(DOC_FILES)
 	@./generate_pdf.sh
 
 # Targets to call manually
 .PHONY: doc
-doc: doc.pdf
+doc: documentation.pdf
 
 .PHONY: pdf
 pdf: doc

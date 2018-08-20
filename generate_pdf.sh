@@ -12,7 +12,7 @@ done
 
 # generate a pdf file with the content
 echo "${CONTENT}\n" \
-  | pandoc -S --toc -o doc.pdf \
+  | pandoc -S --toc -o documentation.pdf \
     -V lang=fr -V fontsize=12pt -V documentclass=report
 
 # clean temp files
