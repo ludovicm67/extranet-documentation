@@ -20,7 +20,7 @@ Accédez à l'interface web. Vous devrez normalement tomber directement sur un f
 
 Une fois connecté, l'interface se présente sous la forme de deux parties :
 
-  - un menu latéral sur la gauche, visible par défaut sur PC, et qui peut être rendu visible sur mobile d'un simple glissement de doigt du bord gauche vers la droite, ou bien en cliquant sur le bouton hamburger situé en-haut à gauche,
+  - un menu latéral sur la gauche, visible par défaut sur PC, et qui peut être rendu visible sur mobile d'un simple glissement de doigt du bord gauche vers la droite, ou bien en cliquant sur le bouton hamburger situé en haut à gauche,
 
   - la zone de contenu, là où s'affichera le contenu souhaité.
 
@@ -29,7 +29,7 @@ Une fois connecté, l'interface se présente sous la forme de deux parties :
 
 Dans le menu latéral, trouvez l'entrée «Utilisateurs» et cliquez dessus.
 
-Ajoutez autant d'utilisateur que nécessaire, en commençant par cliquer sur le bouton «Ajouter» situé en-haut à droite.
+Ajoutez autant d'utilisateur que nécessaire, en commençant par cliquer sur le bouton «Ajouter» situé en haut à droite.
 
 Renseignez un nom, un prénom, une adresse mail et un mot de passe au minimum.
 
@@ -42,7 +42,7 @@ Répétez cette étape autant de fois que nécessaire.
 
 ### Rôles
 
-Vous pouvez éditer les rôles que vous avez créé pour leur donner un certain nombre de permissions. Pour ce faire, accédez à nouveau à la liste des utiliasteurs en cliquant sur le bouton «Utilisateurs» du menu latéral, puis choisissez le bouton «Rôles» situé en-haut à droite. Ajoutez, éditez, supprimez des rôles selon vos besoins !
+Vous pouvez éditer les rôles que vous avez créés pour leur donner un certain nombre de permissions. Pour ce faire, accédez à nouveau à la liste des utilisateurs en cliquant sur le bouton «Utilisateurs» du menu latéral, puis choisissez le bouton «Rôles» situé en haut à droite. Ajoutez, éditez, supprimez des rôles selon vos besoins !
 
 Par défaut, un nouveau rôle n'a aucune permission; il faut donc l'éditer et cocher les différentes cases de permissions si tout utilisateur possédant ce rôle peut afficher, ajouter, modifier ou bien supprimer une ressource de ce type.
 
@@ -51,9 +51,9 @@ Si l'on prend l'exemple des congés, le fait de donner la permission d'afficher 
 
 ### Contrats
 
-Pensez également à assigner un ou plusieurs contrats à chacun des utilisateurs, dans le cas où vous souhaitez les faire apparaître dans les exports comptable et avoir un historique du parcours professionel des utilisateurs au sein de la société.
+Pensez également à assigner un ou plusieurs contrats à chacun des utilisateurs, dans le cas où vous souhaitez les faire apparaître dans les exports comptable et avoir un historique du parcours professionnel des utilisateurs au sein de la société.
 
-Pour ce faire, accédez à la page de gestion des contrats en passant par l'entréee «Utilisateurs» du menu latéral, et en choissant «Contrats» parmi les boutons situés en-haut à droite.
+Pour ce faire, accédez à la page de gestion des contrats en passant par l'entrée «Utilisateurs» du menu latéral, et en choisissant «Contrats» parmi les boutons situés en haut à droite.
 
 Lorsque vous ajouterez un contrat, vous aurez besoin de choisir un utilisateur, le type de contrat, le début de contrat, et, si besoin, la date de fin du contrat.
 
